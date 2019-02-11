@@ -21,4 +21,11 @@ func sum(a : Int, b : Int) {
 sum(a: 10, b: 30)
 
 
+func sub(_ a: Float, _ b: Float) {
+    let c = a - b
+    print("Sub : ", c)
+}
+
+sub(50,30)
+
 
